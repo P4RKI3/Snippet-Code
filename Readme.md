@@ -1,3 +1,2 @@
-
-This is a rep for Snippet codes for the initial deliverables
-
+# Snippet-Code
+Code for Initial Deliverables
